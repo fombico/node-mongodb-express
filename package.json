@@ -1,0 +1,16 @@
+{
+  "name": "mongoexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies" : {
+  	"express": "*",
+  	"morgan": "*",
+  	"body-parser": "*",
+  	"ejs": "*",
+  	"mongo": "*",
+    "mongoose" : "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
